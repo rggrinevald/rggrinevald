@@ -1,5 +1,5 @@
 # 💫 Sobre Mim?
-Me chamo Rômulo Gomes Grinevald, tenho atualmente 24 anos e sou apaixonado por tecnologia desde que quando me entendo por gente.<br>Atualmente trabalho como migrador de dados, mas busco uma oportunidade de trabalhar como desenvolvedor voltado mais para a parte de Back-End.
+Me chamo Rômulo Gomes Grinevald, tenho atualmente 24 anos gosto de tecnologia desde que me entendo por gente.<br>Atualmente trabalho como migrador de dados pleno, mas busco uma oportunidade de trabalhar como desenvolvedor voltado mais para a parte de Back-End.<br>No momento estou focado em um projeto pessoal junto com um amigo e por ser um projeto grande é que envolve mais pessoas não posso deixar ele publico.
 
 
 ## 🌐 Redes Sociais:
