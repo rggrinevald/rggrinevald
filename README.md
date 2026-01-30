@@ -1,5 +1,5 @@
 # 💫 Sobre Mim?
-Me chamo Rômulo Gomes Grinevald, tenho atualmente 24 anos gosto de tecnologia desde que me entendo por gente.<br>Atualmente trabalho como DEV Treinee.
+Me chamo Rômulo Gomes Grinevald, tenho atualmente 24 anos gosto de tecnologia desde que me entendo por gente.<br>Atualmente trabalho como DEV Back-End Junior.
 
 
 ## 🌐 Redes Sociais:
